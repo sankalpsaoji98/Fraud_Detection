@@ -47,6 +47,15 @@ The dataset is synthetically generated and saved as `complex_fraud_detection_dat
 
 The main analysis is contained in the Jupyter notebook or Python script provided. You can run the analysis by executing the script or running the cells in the notebook.
 
+## Results
+
+
+![1](https://github.com/sankalpsaoji98/Fraud_Detection/assets/26198596/6f59649a-6c88-4c38-a66c-3fdf043f6d1a)
+![2](https://github.com/sankalpsaoji98/Fraud_Detection/assets/26198596/9cd3dd79-9b2a-4348-8090-ce8dc16df4f1)
+![3](https://github.com/sankalpsaoji98/Fraud_Detection/assets/26198596/394f9b0a-283a-47b9-aed3-eede432e8780)
+![5](https://github.com/sankalpsaoji98/Fraud_Detection/assets/26198596/805a380f-7c24-4a70-9fdf-1820b04427ea)
+
+
 ### Example
 
 ```python
@@ -65,3 +74,7 @@ from sklearn.decomposition import PCA
 df = pd.read_excel('complex_fraud_detection_data.xlsx')
 
 # Your analysis code here...
+
+## Example
+
+
